@@ -1,0 +1,29 @@
+{
+  "baseUrl" : null,
+  "activeEnvironmentId" : null,
+  "webAUTPreferences" : {
+    "browser" : "Remote Chrome",
+    "stopWhenElementNotFound" : false
+  },
+  "securitySettings" : {
+    "certificateSettings" : {
+      "storePath" : "C:\\JOSF-BETA-060722\\api\\bin\\jdk8u312-b07\\jre\\lib\\security\\cacerts",
+      "storePassword" : "changeit",
+      "storeType" : "jks",
+      "sslCheckingDisabled" : false
+    },
+    "proxySettings" : {
+      "proxyHost" : null,
+      "proxyPort" : 8080,
+      "proxyUsername" : null,
+      "proxyPassword" : null,
+      "isEnabled" : false,
+      "isEnabledForDriverDownload" : false,
+      "isEnabledForBrowserProxy" : false,
+      "isEnabledForAPIRequests" : false,
+      "useCredentials" : false,
+      "autoDetect" : false
+    }
+  },
+  "licence" : "Menno - Valori\r\nCnuB3/x985v31mF2d1jkkXK4xlZIsH4aK1+A9j7O2ynVYJbjcAyZS3tqizIP1krkU9f9IXhB4mJA\r\nrTRAGEASAD0GLBiNcqO/+tGG7AsbPPBwJ3JpcybZFQbszR61p2pf"
+}
