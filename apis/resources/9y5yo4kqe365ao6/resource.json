@@ -1,0 +1,1 @@
+{"id":"9y5yo4kqe365ao6","apiHostId":"xo3o6k7qxy41","title":"RelationshipDelete","description":"","method":"GET","path":"/RelationshipDelete","parameters":[{"key":"Id","value":null,"description":null,"enabled":true}],"cookies":[],"headers":[],"authorization":{"type":"no-auth"},"body":{"content":null,"contentType":"none"},"tags":["CoolModelData"],"protocol":null,"action":null}

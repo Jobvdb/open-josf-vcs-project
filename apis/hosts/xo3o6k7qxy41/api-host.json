@@ -1,0 +1,14 @@
+{
+  "apiType" : null,
+  "description" : "",
+  "definitionUrl" : "https://hyperion-dev.coolprofs.com/CoolModel_CoreLayerTesting/rest/CoolModelData/swagger.json",
+  "schemes" : [ "https" ],
+  "activeScheme" : "https",
+  "baseUrl" : "hyperion-dev.coolprofs.com",
+  "basePath" : "/CoolModel_CoreLayerTesting/rest/CoolModelData",
+  "authentication" : null,
+  "tags" : [ "CoolModelData" ],
+  "id" : "xo3o6k7qxy41",
+  "title" : "CoolModelData",
+  "objectType" : null
+}

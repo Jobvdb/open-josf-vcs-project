@@ -1,0 +1,1 @@
+{"id":"6959eoyx8158h8g8","apiHostId":"xo3o6k7qxy41","title":"NodeDelete","description":"","method":"GET","path":"/NodeDelete","parameters":[{"key":"Id","value":null,"description":null,"enabled":true}],"cookies":[],"headers":[],"authorization":{"type":"no-auth"},"body":{"content":null,"contentType":"none"},"tags":["CoolModelData"],"protocol":null,"action":null}
